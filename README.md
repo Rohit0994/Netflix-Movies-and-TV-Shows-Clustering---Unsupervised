@@ -3,8 +3,6 @@ The goal of this project is to classify/group the Netflix shows into certain clu
 
 # Data Description
 
-##- <b>Dataset</b> - data_mobile_price_range.csv
-
 - show_id : Unique ID for every Movie / Tv Show
 - type : Identifier - A Movie or TV Show
 - title : Title of the Movie / Tv Show
